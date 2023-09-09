@@ -1,6 +1,6 @@
 ### Hi I'm Bianca 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-de-las-casas/)](https://www.linkedin.com/in/bianca-de-las-casas/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-de-las-casas/)](https://www.linkedin.com/in/bianca-de-las-casas/)
 <!--
 **biancadlc/biancadlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
