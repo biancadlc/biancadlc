@@ -4,8 +4,9 @@
 
 Software developer with a biology background 🧬💻
 
-- 💬 Ask me about Ada Developers Academy or my experience with teaching kids how to code.
 - 😄 Pronouns: she/her
+- 💬 Ask me about Ada Developers Academy or my experience with teaching kids how to code.
+
 
 
 
